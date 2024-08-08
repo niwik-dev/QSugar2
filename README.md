@@ -20,7 +20,7 @@ QSugar2 是继 [QSugar](https://github.com/niwik-dev/QSugar) 设计以来 的第
 * 数据双向绑定
 * 计算属性 及 绑定
 
-框架的Python实现，见[QtForPython分支](https://github.com/niwik-dev/QSugar2/tree/QtForPython)。
+框架的Python实现，见[QtForPython版本](https://github.com/niwik-dev/QSugar2/tree/main/python)。
 
 <h2>
     教程📚
