@@ -3,7 +3,7 @@
 https://cdn.jsdelivr.net/npm/jetbrains-mono@1.0.6/css/jetbrains-mono.min.css
 " rel="stylesheet">
 
-<h1 style="text-align: center;">QSugar🌱</h1>
+<h1 style="text-align: center;">QSugar2🌱</h1>
 
 <div style="text-align:center; letter-spacing: 0.05em;">
     响应式 Qt框架，简单且友好
